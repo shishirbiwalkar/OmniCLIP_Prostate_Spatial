@@ -1,0 +1,27 @@
+# OmniCLIP - Simple bioinformatics pipelines for histopathology + transcriptomics
+# Based on OmiCLIP/Loki (Nature Methods 2025)
+# https://www.nature.com/articles/s41592-025-02707-1
+
+# Core
+numpy>=1.25.0
+pandas>=2.2.0
+scipy>=1.10.0
+
+# Spatial transcriptomics
+anndata>=0.10.0
+scanpy>=1.10.0
+squidpy>=1.8.0
+
+# Deep learning (OmiCLIP)
+torch>=2.0.0
+torchvision>=0.18.0
+open_clip_torch>=2.26.0
+
+# Image processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Utilities
+tqdm>=4.66.0
+matplotlib>=3.7.0
+huggingface_hub>=0.20.0

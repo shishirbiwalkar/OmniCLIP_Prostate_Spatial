@@ -1,0 +1,10 @@
+data/
+models/
+output/
+.cache/
+.mpl/
+__pycache__/
+*.pyc
+.venv/
+*.h5ad
+*.pt
