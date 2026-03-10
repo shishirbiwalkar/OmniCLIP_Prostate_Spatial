@@ -47,3 +47,4 @@ python run.py neighborhoods # Recurrent neighborhood types (biological novelty)
 ##Reference
 
 Chen, W. et al. A visual–omics foundation model to bridge histopathology with spatial transcriptomics. *Nature Methods* **22**, 1568–1582 (2025). [DOI](https://doi.org/10.1038/s41592-025-02707-1)
+# OmniCLIP_Prostate_Spatial
